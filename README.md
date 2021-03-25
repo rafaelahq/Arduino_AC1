@@ -28,6 +28,11 @@ Meu nome é Lucas Peagno, sou do 2EMRB, tenho 16 anos e sou sagitariano, gosto m
 
 **Rafaela de Mello Santos**
 
+![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Rafaela_Mello.jpg)
+
+Meu nome é Rafaela Mello, sou taurina, tenho 16 anos e sou do 2EMRB. Gosto muito de assistir séries e documentários sobre investigações criminais, mas também gosto muito de ouvir música sempre que posso.
+- Responsável por comentar todo o código.
+
 **Valentina Reisewitz Araújo**
 
 **Vítor Henrique Nhoatto Bagattini**
