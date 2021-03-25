@@ -26,7 +26,7 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 **Valentina Reisewitz Araújo**
 
 **Vítor Henrique Nhoatto Bagattini**
-! [] (https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Vitor_Nhoatto.jpg)
+! [](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Vitor_Nhoatto.jpg)
 Estudante paranóico do segundo ano do ensino médio, escorpiano fiel, responsável e cuidado, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva. **Responsável pela edição do README.**
 
 ### Composição da nota do grupo
