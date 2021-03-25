@@ -1,7 +1,7 @@
 # Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+## Quinteto Fantástico -> Primeira AC Trimestre
 
-Use o FORK para adicionar esse projeto a sua organização antes de começar.
+Erros no código, montagem no Tinkercad e Short Bio dos integrantes você acha tudo aqui!
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
