@@ -13,7 +13,7 @@ Montagem: Lucas de Carvalho Peagno
 
 O nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Devemos seguir as orientações dadas e ajudar o Brasil e o mundo a sair dessa pandemia o quanto antes. 
 
-Abaixo da nossa montagem constam as alterações que realizamos, quem está no projeto e a função de cada pedaço do código.
+Abaixo da nossa montagem constam as alterações, quem está no projeto e a função de cada pedaço do código.
 
 ### Funcionalidades esperadas:
 
