@@ -20,6 +20,7 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 **Gabriel Gurgel Vicente Correia Alves**
 
 **Lucas de Carvalho Peagno**
+
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Lucas_Peagno.jpg)
 
 - Responsável pela montagem no Tinkercad.
