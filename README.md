@@ -15,7 +15,7 @@ O nosso grupo foi contratado para realizar a automação do chão de fábrica de
 
 Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e a função de cada pedaço do código.
 
-### Integrantes do Grupo:
+## **INTEGRANTES DO GRUPO:**
 
 **Gabriel Gurgel Vicente Correia Alves**
 
