@@ -9,7 +9,7 @@ Erros no código, montagem no Tinkercad e Short Bio dos integrantes você acha t
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/AC1.png)
 Montagem: Lucas de Carvalho Peagno
 
-## **A AUTOMAÇÃO** 
+## **AUTOMAÇÃO** 
 
 O nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Devemos seguir as orientações dadas e ajudar o Brasil e o mundoms sair da pandemia o quanto antes. 
 Abaixo da nossa montagem constam as alterações que realizamos, quem está no projeto e a função de cada pedaço do código.
