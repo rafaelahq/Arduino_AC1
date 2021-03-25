@@ -21,6 +21,10 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 
 **Lucas de Carvalho Peagno**
 
+![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Lucas_Pagno.jpg)
+
+- Responsável pela montagem no Tinkercad.
+- 
 **Rafaela de Mello Santos**
 
 **Valentina Reisewitz Araújo**
