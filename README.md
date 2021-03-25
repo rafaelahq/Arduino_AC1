@@ -37,7 +37,8 @@ Meu nome é Lucas Peagno, sou do 2EMRB, tenho 16 anos e sou sagitariano, gosto m
 Estudante paranóico do segundo ano do ensino médio, escorpiano fiel, responsável e cuidadoso, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva, editar e arrumar.
 - Responsável pela edição do README.
 
-### Composição da nota do grupo
+## **DOCUMENTAÇÃO DO PROJETO**
+
 - Ajuste dos erros no código principal.
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
 - No README.md adicionando nome do grupo fotos e short bio de cada integrante.
@@ -45,15 +46,6 @@ Estudante paranóico do segundo ano do ensino médio, escorpiano fiel, responsá
 - Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
 - Implementação das funcionalidades faltantes.
 
-### Desconto de nota individual
+### Manifesto do grupo
 
-**Caso um dos integrantes venha a ter um desempenho inconsistente na colaboração com o projeto em comparação com os demais da equipe o mesmo pode ter sua nota parcial ou total descontada.**
-
-#### LINKS UTEIS:
-
-- **Funções:** https://www.arduino.cc/reference/pt/
-- **map():** https://www.arduino.cc/reference/pt/language/functions/math/map/
-- **millis():** https://www.arduino.cc/reference/pt/language/functions/time/millis/
-
-- **Editor de README.md:** https://pandao.github.io/editor.md/en.html
-- **Shield.io:** https://shields.io/
+**O grupo Quinteto Fantástico deseja expressar por meio desse manifesto coletivo a satisfação e prazer em fazer parte desse processo tão simbólico e importante para o Brasil e para o mundo de uma forma geral. Desejamos sair dessa pandemia o quanto antes, e isso só será possível por meio das vacina.**
