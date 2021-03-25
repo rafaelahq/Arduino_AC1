@@ -23,6 +23,7 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Lucas_Peagno.jpg)
 
+Meu nome é Lucas Peagno, sou do 2EMRB, tenho 16 anos e sou sagitariano, gosto muito de jogar videogame, sair com meus amigos e dormir. Eu fiquei encarregado pela montagem do dispositivo.
 - Responsável pela montagem no Tinkercad.
 
 **Rafaela de Mello Santos**
@@ -33,7 +34,7 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Vitor_Nhoatto.jpg)
 
-Estudante paranóico do segundo ano do ensino médio, escorpiano fiel, responsável e cuidadoso, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva.
+Estudante paranóico do segundo ano do ensino médio, escorpiano fiel, responsável e cuidadoso, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva, editar e arrumar.
 - Responsável pela edição do README.
 
 ### Composição da nota do grupo
