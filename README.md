@@ -18,9 +18,13 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 ### Integrantes do Grupo:
 
 **Gabriel Gurgel Vicente Correia Alves**
+
 **Lucas de Carvalho Peagno**
+
 **Rafaela de Mello Santos**
+
 **Valentina Reisewitz Araújo**
+
 **Vítor Henrique Nhoatto Bagattini**
 
 ### Composição da nota do grupo
