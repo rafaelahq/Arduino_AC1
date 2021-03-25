@@ -1,7 +1,7 @@
 # Arduino_AC1
 ## Quinteto Fantástico -> Primeira AC Trimestre
 
-Erros no código, montagem no Tinkercad e Short Bio dos integrantes você acha tudo aqui!
+Erros no código, montagem no Tinkercad e Short Bio dos integrantes, você acha tudo aqui!
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
