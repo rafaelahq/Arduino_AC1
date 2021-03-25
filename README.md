@@ -19,6 +19,11 @@ Abaixo da nossa montagem constam as alterações feitas, quem está no projeto e
 
 **Gabriel Gurgel Vicente Correia Alves**
 
+![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Gabriel_Gurgel.jpg)
+
+Oii eu sou o Gabriel Gurgel aluno do 2RMB, sou de gêmeos, gosto muito de ler e jogar videogame, ver filmes e séries. Nesse projeto irei ajustar os erros do código principal, uma das partes mais difíceis!
+- Responsável por corrigir os erros do código.
+
 **Lucas de Carvalho Peagno**
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Lucas_Peagno.jpg)
