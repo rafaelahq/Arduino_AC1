@@ -40,6 +40,11 @@ Meu nome é Rafaela Mello, sou taurina, tenho 16 anos e sou do 2EMRB. Gosto muit
 
 **Valentina Reisewitz Araújo**
 
+![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Valentina_Reisewitz.jpg)
+
+Olá, eu sou a Valentina do 2RMB, sou capricorniana com ascendente em peixes, amo muito a arte em geral, incluindo canto, dança e pintura! Farei uma tarefa árdua e onisciente.
+- Responsável por documentar todo o projeto.
+
 **Vítor Henrique Nhoatto Bagattini**
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Vitor_Nhoatto.jpg)
