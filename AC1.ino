@@ -1,4 +1,4 @@
-econst int vermelho = 5;
+const int vermelho = 5;
 const int verde = 6;
 const int azul = 7;
 
