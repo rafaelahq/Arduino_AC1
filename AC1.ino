@@ -5,6 +5,7 @@ const int azul = 7;
 
 bool estadoLedVermelho = false;
 
+// IInicializaçãos das constantes do botão 1 e 2
 const int botao1 = 2;
 const int botao2 = 3;
 
