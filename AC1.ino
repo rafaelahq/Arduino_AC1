@@ -1,11 +1,11 @@
-//Inicialização das constantes do led
+// Ativação das constantes do led;
 const int vermelho = 5;
 const int verde = 6;
 const int azul = 7;
 
 bool estadoLedVermelho = false;
 
-// IInicializaçãos das constantes do botão 1 e 2
+// Inicialização das constantes do botão 1 e 2;
 const int botao1 = 2;
 const int botao2 = 3;
 
@@ -13,7 +13,7 @@ unsigned long lastDebounceTime1 = 0;
 unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
 
-//Incicializacção do Setup
+// Incicializacção do Setup;
 void setup()
 {
   pinMode(A0, INPUT);
@@ -30,25 +30,25 @@ void setup()
   Serial.println("Grupo: ----> QUINTETO FANTÁSTICO  <-------");
 }
 
-//DETERMINANDO O LOOP
+// DETERMINANDO O LOOP;
 
 void loop()
 {
-  // REGRA DECISÃO DO BOTÃO 1
+  // REGRA DECISÃO DO BOTÃO 1;
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
       Serial.println("Produção iniciada");
     ledVermelho(true);
       lastDebounceTime1 = millis();
  }
 
- //REGRA DECISÃO DO BOTÃO 2
+ // REGRA DECISÃO DO BOTÃO 2;
   if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
       Serial.println("Producão parada");
     ledVermelho(false);
       lastDebounceTime2 = millis();
   }
 	
-//REGRA DE DECISÃO DO LED AZUL
+// REGRA DE DECISÃO DO LED AZUL;
   if(getTemperatura() > 15){
     ledAzul(true);
     Serial.println("Temperatura acima do correto");
@@ -57,7 +57,7 @@ void loop()
     Serial.println("Temperatura correta");
   }
 	
-//REGRA DE DECISÃO DO LED VERDE
+// REGRA DE DECISÃO DO LED VERDE;
   if(getLuminosidade() > 5){
     ledVerde(true);
     Serial.println("Luminosidade acima do correto");
@@ -69,7 +69,7 @@ void loop()
   delay(10);
 }
 
-//DEFININDO ESTADOS DO LED
+// DEFININDO ESTADOS DO LED;
 void ledVermelho(bool estado){
   digitalWrite(vermelho,estado);
 }
@@ -80,14 +80,14 @@ void ledAzul(bool estado){
     digitalWrite(azul,estado);
 }
 
-// CÁLCULO DA TEMPERATURA EM GRAUS CÉLCIUS
+// CÁLCULO DA TEMPERATURA EM GRAUS CÉLCIUS;
 int getTemperatura(){
       int temperaturaC; 
     temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
       return temperaturaC;
 } 
 
-// CÁLCULO DA LUMINOSIDADE
+// CÁLCULO DA LUMINOSIDADE;
 int getTemperatura(){
 int getLuminosidade(){
       int luminosidade;
